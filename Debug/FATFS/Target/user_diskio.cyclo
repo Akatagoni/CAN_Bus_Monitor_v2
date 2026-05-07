@@ -1,0 +1,8 @@
+../FATFS/Target/user_diskio.c:14:16:SPI_SendByte	1
+../FATFS/Target/user_diskio.c:21:16:SD_WaitReady	3
+../FATFS/Target/user_diskio.c:30:16:SD_SendCmd	5
+../FATFS/Target/user_diskio.c:51:9:USER_initialize	15
+../FATFS/Target/user_diskio.c:156:9:USER_status	1
+../FATFS/Target/user_diskio.c:161:9:USER_read	6
+../FATFS/Target/user_diskio.c:185:9:USER_write	7
+../FATFS/Target/user_diskio.c:214:9:USER_ioctl	7
